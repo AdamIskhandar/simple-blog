@@ -1,0 +1,17 @@
+[
+	{
+		"title": "Cara Membuat Kek Lapis",
+		"tags": ["masakan", "kek"],
+		"date": "23-12-2023"
+	},
+	{
+		"title": "Cara Membuat Origami",
+		"tags": ["origami", "mainan"],
+		"date": "24-12-2023"
+	},
+	{
+		"title": "Cara Membuat Coding",
+		"tags": ["coding", "programming"],
+		"date": "25-12-2023"
+	}
+]
